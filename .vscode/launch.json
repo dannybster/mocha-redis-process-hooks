@@ -19,7 +19,7 @@
                 "REDIS_PATH": "${env.REDIS_PATH}/src",
                 "REDIS_PORT": "7777",
                 "LOG_LEVEL": "20",
-                "PROGRAM_TIMEOUT": "100000"
+                "PROGRAM_TIMEOUT": "10000"
             }
         }
     ]
